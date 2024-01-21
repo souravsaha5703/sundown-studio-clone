@@ -431,7 +431,7 @@ html,body{
     background-color: #00000070;
     position: fixed;
     z-index: 99;
-    top: -100%;
+    top: -150%;
     transition: all ease-in-out 0.5s;
 }
 #full-div1{

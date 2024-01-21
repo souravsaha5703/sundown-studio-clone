@@ -77,7 +77,7 @@ menu.addEventListener("click", () => {
         navImage.style.opacity = 0;
         flag = 1;
     } else {
-        fullScreenOverlay.style.top = "-100%";
+        fullScreenOverlay.style.top = "-150%";
         navImage.style.opacity = 1;
         flag = 0;
     }
